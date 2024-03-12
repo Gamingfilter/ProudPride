@@ -3,7 +3,8 @@ body {
   font-family: Arial, sans-serif; /*Font*/
   margin: 0; /*lengte tussen andere dingen*/
   padding: 0; /*Space between border*/
-  linear-gradient(white, #f7c8f6);
+  background-color: #f7c8f6;
+  background-image: linear-gradient(white, #f7c8f6);
 }
 /*For the header*/
 header {
