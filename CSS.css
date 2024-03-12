@@ -3,12 +3,12 @@ body {
   font-family: Arial, sans-serif; /*Font*/
   margin: 0; /*lengte tussen andere dingen*/
   padding: 0; /*Space between border*/
-  background-color: #f5bcf3; /*Background kleur*/
+  linear-gradient(white, #f7c8f6);
 }
 /*For the header*/
 header {
-  background-color: #f5abf2;
-  color: #f5ebf4; /*tekstkleur*/
+  background-color: white;
+  color: #f5b5f3; /*tekstkleur*/
   text-align: center; /*text in het midden*/
   padding: 10px 0;
 }
